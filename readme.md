@@ -7,7 +7,7 @@ Welcome to your first practice on git and github!
 - push the file
 - send a pull request
 
-Wish you all the best! 
+Wish you all the best! ✌️😎
 
 
 Shayan
